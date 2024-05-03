@@ -1,4 +1,4 @@
-# About me
+# About TecnoDigital School
 
 Hi, my name is Miguel Herraez!
 
