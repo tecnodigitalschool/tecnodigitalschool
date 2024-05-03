@@ -12,7 +12,7 @@ At [TecnoDigital School](https://tecnodigitalschool.com/) you can check out all 
 
 Every now and then I organize free online seminars on different simulation topics. If you want to be notified about them, subscribe [here](https://tecnodigitalschool.com/gift/).
 
-If you have any question, don't hesitate to reach me out by [email](emailto:contact@tecnodigitalschool.com).
+If you have any question, don't hesitate to reach me out by [email](mailto:contact@tecnodigitalschool.com).
 
 See you there!
 
